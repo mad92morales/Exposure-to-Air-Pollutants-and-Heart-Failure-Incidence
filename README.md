@@ -64,6 +64,21 @@ This research project explores the interaction between air pollution exposure, g
 
 ---
 
+### 🔗 View HTML Reports via GitHub Pages
+
+Explore the outputs of this project directly in your browser:
+
+- [Data Exploration](https://mad92morales.github.io/Exposure-to-Air-Pollutants-and-Heart-Failure-Incidence/data_exploration.html)
+- [Logistic Regression Models](https://mad92morales.github.io/Exposure-to-Air-Pollutants-and-Heart-Failure-Incidence/logistic_regression.html)
+- [PRS + Proteomics Analysis](https://mad92morales.github.io/Exposure-to-Air-Pollutants-and-Heart-Failure-Incidence/PRS_with_proteomics.html)
+- [PRS without Proteomics](https://mad92morales.github.io/Exposure-to-Air-Pollutants-and-Heart-Failure-Incidence/PRS_no_proteomics.html)
+- [PCA Models](https://mad92morales.github.io/Exposure-to-Air-Pollutants-and-Heart-Failure-Incidence/PCA_models-2.html)
+- [Dataset Merging Steps](https://mad92morales.github.io/Exposure-to-Air-Pollutants-and-Heart-Failure-Incidence/merge_datasets.index.html)
+
+> All pages are rendered using [GitHub Pages](https://pages.github.com/). If a link doesn’t load immediately, try refreshing — it may still be caching changes.
+
+---
+
 ## Tools & Packages
 
 - R packages: `ggplot2`, `knitr`, `tidyr`, `broom`
